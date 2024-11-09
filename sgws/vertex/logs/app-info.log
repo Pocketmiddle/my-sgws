@@ -1,0 +1,43 @@
+[2024-10-19T10:42:10.465][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-10-19T10:42:10.476][INFO console] 32 (vertex/app/app.js 165:12) HTTP 服务器启动, 监听端口:  3000
+[2024-10-19T10:42:10.540][INFO console] 32 (app/libs/redis.js 14:10) Redis connected!
+[2024-10-19T10:42:10.558][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T10:44:03.323][INFO console] 32 (app/controller/User.js 12:14) 登录成功, IP: 134.195.211.108
+[2024-10-19T11:32:12.006][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T12:22:16.004][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T13:12:02.522][INFO console] 32 (app/common/Client.js 205:12) 重新加载删种规则 0-NC|Lin
+[2024-10-19T13:12:20.004][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T13:12:44.126][INFO console] 32 (app/common/Client.js 205:12) 重新加载删种规则 0-NC|Lin
+[2024-10-19T13:13:05.005][INFO console] 32 (app/common/Client.js 174:12) 销毁下载器实例 0-NC|Lin
+[2024-10-19T13:13:05.023][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-10-19T13:13:05.027][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T14:03:08.004][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T14:53:12.005][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T15:43:16.005][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T16:08:17.221][INFO console] 32 (app/common/Client.js 174:12) 销毁下载器实例 0-NC|Lin
+[2024-10-19T16:08:17.235][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-10-19T16:08:17.237][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T16:13:26.617][INFO console] 32 (app/common/Client.js 174:12) 销毁下载器实例 0-NC|Lin
+[2024-10-19T16:13:26.630][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-10-19T16:13:26.633][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T16:13:49.388][INFO console] 32 (app/common/Client.js 174:12) 销毁下载器实例 0-NC|Lin
+[2024-10-19T16:13:49.400][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-10-19T16:13:49.402][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T16:16:11.827][INFO console] 32 (app/common/Client.js 174:12) 销毁下载器实例 0-NC|Lin
+[2024-10-19T16:16:11.836][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-10-19T16:16:11.838][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T16:18:22.862][INFO console] 32 (app/common/Client.js 174:12) 销毁下载器实例 0-NC|Lin
+[2024-10-19T16:18:22.873][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-10-19T16:18:22.876][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T16:35:45.725][INFO console] 32 (app/common/Client.js 174:12) 销毁下载器实例 0-NC|Lin
+[2024-10-19T16:35:45.735][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-10-19T16:35:45.738][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T16:42:40.341][INFO console] 32 (app/common/Client.js 174:12) 销毁下载器实例 0-NC|Lin
+[2024-10-19T16:42:40.348][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-10-19T16:42:40.350][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T16:47:24.271][INFO console] 32 (app/common/Client.js 174:12) 销毁下载器实例 0-NC|Lin
+[2024-10-19T16:47:24.282][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-10-19T16:47:24.284][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
+[2024-10-19T16:48:41.710][INFO console] 32 (app/common/Client.js 174:12) 销毁下载器实例 0-NC|Lin
+[2024-10-19T16:48:41.717][INFO console] 32 (app/common/Client.js 75:12) 下载器 0-NC|Lin 初始化完毕
+[2024-10-19T16:48:41.719][INFO console] 32 (app/common/Client.js 239:14) 下载器 0-NC|Lin 登录成功
